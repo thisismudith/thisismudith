@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a URC Rover and other passion projects!<br>👯 I’m looking to collaborate on New Python Projects<br>🤝 I’m looking for help with AIML<br>🌱 I’m currently learning AIML<br>⚡ Fun fact: I'm a 17 year old developer :)
+🔭 I’m currently working on the Ground Control Station of a URC Rover and Communication Protocols for CANSAT, alongside other passion projects!<br>👯 I’m looking to collaborate on New Python Projects<br>🤝 I’m looking for help with AIML<br>🌱 I’m currently learning AIML
 
 
 ## 🌐 Socials:
